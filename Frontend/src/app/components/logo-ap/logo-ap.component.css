@@ -1,0 +1,40 @@
+#logoAP{
+    width: 35vw;
+}
+.row{
+    margin: 0%;
+}
+img{
+    width: 50px;
+    transition: 0.2s;
+}
+img:hover{
+    width: 55px;
+}
+
+a{
+    padding: 1px;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button{
+    border-color: black;
+    height: 50px;
+    padding: 0 1px;
+}
+
+.container{
+    flex-direction: column;
+}
+.redes div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
